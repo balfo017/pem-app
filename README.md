@@ -24,8 +24,8 @@ For more details, see Expo's [Running in the Browser](https://docs.expo.io/guide
 
 ## Documentation
 
-This app docs is still in progress so feel free to add your PR to make it better!
-- To enhance this documentation you can use GitHub's [markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
+This app docs are still in progress so feel free to add your PR to make it better!
+- To enhance it you can use GitHub's [markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 
 ## Stack Used
  - [React Native](https://reactnative.dev/)
