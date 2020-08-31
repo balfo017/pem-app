@@ -1,4 +1,4 @@
-# <a style="text-align:center" href='https://github.com/pemmed/pem-app'><img src='https://i.imgur.com/4HAEm2D.png' height=380 alt='Pem App Logo' aria-label='https://github.com/pemmed/pem-app' /></a>
+# <a style="text-align:center" href='https://github.com/pemmed/pem-app'><img src='https://i.imgur.com/4HAEm2D.png' alt='Pem App Logo' aria-label='https://github.com/pemmed/pem-app' /></a>
 
 If you have time to set up badges like these ones please help out!
 [![build status](https://img.shields.io/travis/reduxjs/redux/master.svg?style=flat-square)](https://travis-ci.org/reduxjs/redux)
