@@ -65,7 +65,8 @@ For more details, see Expo's [Running in the Browser](https://docs.expo.io/guide
 
 ### Run it on your Android or iOS Device (Option B)
 
-Download expo client apps from an iOS or an Android Device
+Download expo client apps from an iOS or an Android Device<br>
+
 [App Store (iOS)](https://itunes.com/apps/exponent)
 
 [Play Store (Android)](https://play.google.com/store/apps/details?id=host.exp.exponent)
