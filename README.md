@@ -53,6 +53,7 @@ cd pem-app/
 Rename ```firebaseConfig.js.example``` to ```firebaseConfig.js``` and add ***proper credentials*** so you get a valid connection to the backend. *If you don't have an idea of what this is, ask your team mates or product owners about how to get this info.*
 
 ### Run it in the browser (Option A)
+*This option is still in beta and has a lot of issues, we recommend to use the other two options if possible.*
 ```
 npm install react-native-web react-dom
 ```
