@@ -15,6 +15,7 @@ export default {
         cat8: '#FFC6FF',
         //----------OTHERS----------
         googleBlue:'#4285F4',
-        DeleteColor: '#cd5c5c'
+        DeleteColor: '#cd5c5c',
+        white: '#ffffff'
  
 }; 
