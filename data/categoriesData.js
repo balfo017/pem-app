@@ -7,7 +7,7 @@ import Colors from "../constants/Colors";
 
 export const CATEGORIES = [
   new Category("c1", "🏥 Medical", Colors.medical),
-  new Category("c2", "🔪 Surgical", Colors.surgical),
+  new Category("c2", "🔪Surgical", Colors.surgical),
   new Category("c3", "🤕 Trauma", Colors.trauma),
   new Category("c4", "💊 Toxicology", Colors.toxicology),
   new Category("c5", "🤢 Foreign Ingestion", Colors.foreign),
